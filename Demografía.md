@@ -1,3 +1,6 @@
+[ProyectoFinal_v0_CamposFlores.pdf](https://github.com/user-attachments/files/27945886/ProyectoFinal_v0_CamposFlores.pdf)
+[DEFUNCIONES_Chiapas.xlsx](https://github.com/user-attachments/files/27945539/DEFUNCIONES_Chiapas.xlsx)
+[Censos2010y2020_Chiapas.xlsx](https://github.com/user-attachments/files/27945533/Censos2010y2020_Chiapas.xlsx)
 ---
 title: "Proyecto Final Demografía-9219: Tablas de Vida de Chiapas"
 subtitle: "2010, 2019 y 2021 por Sexo"
